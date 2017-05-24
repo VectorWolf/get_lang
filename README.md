@@ -35,3 +35,6 @@ It ignores chars specified in ignore.txt
 
 The language files provided are from http://www.winedt.org/dict.html and I converted them to plain .txt files in utf_8.
 They should work out of the box.
+
+This project started as a simple port of my python language-recognition program, but it stores its ratings per pattern
+differently. It needs less than 50% of RAM, about 25% of time and is a bit more successful than the python version.
