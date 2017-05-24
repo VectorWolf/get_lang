@@ -1,0 +1,281 @@
+# depslib dependency file v1.0
+1494798761 source:/home/linuxwolf/Programme/C++-Programme/Language_Recognition/main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<map>
+	"wordbooks.h"
+	<random>
+
+1492508100 /home/linuxwolf/Programme/C++-Programme/Language_Recognition/split.h
+	<vector>
+	<string>
+
+1492507609 source:/home/linuxwolf/Programme/C++-Programme/Language_Recognition/split.cpp
+	<iostream>
+	<vector>
+	<sstream>
+	<iterator>
+
+1494060395 source:/home/linuxwolf/Programme/C++-Programme/Language_Recognition/wordbooks.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<map>
+	<set>
+	<limits>
+	<chrono>
+	<random>
+	"split.h"
+	"wordbooks.h"
+
+1494800041 /home/linuxwolf/Programme/C++-Programme/Language_Recognition/wordbooks.h
+	<vector>
+	<string>
+	<map>
+	<set>
+	<limits>
+	<random>
+
+1494875230 source:/home/linuxwolf/Programme/C++-Programme/Language_Recognition2/main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<map>
+	"wordbooks.h"
+	<random>
+
+1494864156 /home/linuxwolf/Programme/C++-Programme/Language_Recognition2/wordbooks.h
+	<vector>
+	<string>
+	<map>
+	<set>
+	<limits>
+	<random>
+
+1492507609 source:/home/linuxwolf/Programme/C++-Programme/Language_Recognition2/split.cpp
+	<iostream>
+	<vector>
+	<sstream>
+	<iterator>
+
+1494875319 source:/home/linuxwolf/Programme/C++-Programme/Language_Recognition2/wordbooks.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<map>
+	<set>
+	<limits>
+	<chrono>
+	<random>
+	"split.h"
+	"wordbooks.h"
+
+1492508100 /home/linuxwolf/Programme/C++-Programme/Language_Recognition2/split.h
+	<vector>
+	<string>
+
+1492507609 source:/home/linuxwolf/Programme/C++-Programme/Language_Recognition3/split.cpp
+	<iostream>
+	<vector>
+	<sstream>
+	<iterator>
+
+1494883182 source:/home/linuxwolf/Programme/C++-Programme/Language_Recognition3/main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<map>
+	"wordbooks.h"
+	<random>
+
+1495392595 /home/linuxwolf/Programme/C++-Programme/Language_Recognition3/wordbooks.h
+	<vector>
+	<string>
+	<map>
+	<set>
+	<limits>
+	<random>
+
+1494883182 source:/home/linuxwolf/Programme/C++-Programme/Language_Recognition3/wordbooks.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<map>
+	<set>
+	<limits>
+	<chrono>
+	<random>
+	"split.h"
+	"wordbooks.h"
+
+1492508100 /home/linuxwolf/Programme/C++-Programme/Language_Recognition3/split.h
+	<vector>
+	<string>
+
+1495615340 source:/home/codingo/Programme/C++/Language_Recognition4(uint rates)/main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<map>
+	"wordbooks.h"
+	<random>
+
+1495615340 /home/codingo/Programme/C++/Language_Recognition4(uint rates)/wordbooks.h
+	<vector>
+	<string>
+	<map>
+	<set>
+	<limits>
+	<random>
+
+1495485420 source:/home/codingo/Programme/C++/Language_Recognition4(uint rates)/split.cpp
+	<iostream>
+	<vector>
+	<sstream>
+	<iterator>
+
+1495616504 source:/home/codingo/Programme/C++/Language_Recognition4(uint rates)/wordbooks.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<map>
+	<set>
+	<limits>
+	<chrono>
+	<random>
+	"split.h"
+	"wordbooks.h"
+
+1495485428 /home/codingo/Programme/C++/Language_Recognition4(uint rates)/split.h
+	<vector>
+	<string>
+
+1495465081 source:/home/linuxwolf/Programme/C++-Programme/Language_Recognition4(uint rates)/split.cpp
+	<iostream>
+	<vector>
+	<sstream>
+	<iterator>
+
+1495479180 source:/home/linuxwolf/Programme/C++-Programme/Language_Recognition4(uint rates)/wordbooks.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<map>
+	<set>
+	<limits>
+	<chrono>
+	<random>
+	"split.h"
+	"wordbooks.h"
+
+1495465096 /home/linuxwolf/Programme/C++-Programme/Language_Recognition4(uint rates)/split.h
+	<vector>
+	<string>
+
+1495476563 /home/linuxwolf/Programme/C++-Programme/Language_Recognition4(uint rates)/wordbooks.h
+	<vector>
+	<string>
+	<map>
+	<set>
+	<limits>
+	<random>
+
+1495477715 source:/home/linuxwolf/Programme/C++-Programme/Language_Recognition4(uint rates)/main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<map>
+	"wordbooks.h"
+	<random>
+
+1495639285 source:/home/linuxwolf/Programme/C++-Programme/Language_Recognition5(docu + fixes)/main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<map>
+	"wordbooks.h"
+	<random>
+
+1495625367 /home/linuxwolf/Programme/C++-Programme/Language_Recognition5(docu + fixes)/wordbooks.h
+	<vector>
+	<string>
+	<map>
+	<set>
+	<limits>
+	<random>
+
+1495625363 source:/home/linuxwolf/Programme/C++-Programme/Language_Recognition5(docu + fixes)/split.cpp
+	<iostream>
+	<vector>
+	<sstream>
+	<iterator>
+
+1495640479 source:/home/linuxwolf/Programme/C++-Programme/Language_Recognition5(docu + fixes)/wordbooks.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<map>
+	<set>
+	<limits>
+	<chrono>
+	<random>
+	"split.h"
+	"wordbooks.h"
+
+1495625378 /home/linuxwolf/Programme/C++-Programme/Language_Recognition5(docu + fixes)/split.h
+	<vector>
+	<string>
+
+1495650939 source:/home/linuxwolf/Programme/C++-Programme/Language_Recognition6(text train and test)/main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<map>
+	"wordbooks.h"
+	<random>
+
+1495650366 /home/linuxwolf/Programme/C++-Programme/Language_Recognition6(text train and test)/wordbooks.h
+	<vector>
+	<string>
+	<map>
+	<set>
+	<limits>
+	<random>
+
+1495625363 source:/home/linuxwolf/Programme/C++-Programme/Language_Recognition6(text train and test)/split.cpp
+	<iostream>
+	<vector>
+	<sstream>
+	<iterator>
+
+1495652407 source:/home/linuxwolf/Programme/C++-Programme/Language_Recognition6(text train and test)/wordbooks.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<map>
+	<set>
+	<limits>
+	<chrono>
+	<random>
+	"split.h"
+	"wordbooks.h"
+
+1495625378 /home/linuxwolf/Programme/C++-Programme/Language_Recognition6(text train and test)/split.h
+	<vector>
+	<string>
+
