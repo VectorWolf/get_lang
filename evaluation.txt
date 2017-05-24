@@ -1,0 +1,23 @@
+Pattern Length: max ---> 26 in this case
+Minimum Word Length: 4
+Maximum Word Length: 25
+A-Z convert?: yes
+
+Trained on: 500.000 Words
+Took 1min16sec (~4 min less)
+Took 2.1 RAM (3 GB less)           compared to
+Tested on: 100.000 Words           python version
+
+afr success: 76.6798% difficult    0.91% increase
+cze success: 92.3261% easy         3.14% increase
+esp success: 89.6517% easy         1.58% increase
+fre success: 88.2785% easy        -0,15% decrease
+ger success: 84.7955% medium       3.17% increase
+ita success: 84.4395% medium      -0.34% decrease
+lat success: 90.5797% easy         1.99% increase
+nla success: 72.5270% difficult    1.69% increase
+pol success: 91.6035% medium       5.07% increase
+swe success: 92.7839% easy         1.65% increase
+
+Total success: 86.42%              1.93% increase
+
