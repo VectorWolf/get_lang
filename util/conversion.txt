@@ -1,0 +1,14 @@
+Ä:Ae
+ä:ae
+Ö:Oe
+ø:oe
+Ø:Oe
+ö:oe
+Ü:Ue
+ü:ue
+æ:ae
+Æ:Ae
+ß:ss
+Å:Aa
+å:aa
+œ:oe
