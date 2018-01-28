@@ -6,11 +6,12 @@ I also added support to train or test on custom user provided .txt files.
 
 This program is fully modular, takes as much languages as you want (and your RAM is able to manage), 
 has stacked patterns for 1 to ∞ letter constructions which are specific on the location etc.
+To my knowledge this algorithm wouls classify as a single layer neural network aka perceptron-net
 
 It works like that:
 
     Letters
-    |   Neuron Layers
+    |   n-gram Layers
     |   1   2   3   4    ...
     E - E   |   |   |
             EX  |   |
